@@ -1,0 +1,15 @@
+Client ID:
+	
+	7106b173461b19a
+	
+Client secret:
+
+	adc612d1ffe509730d6a702663354a563c6a9c09
+	
+	
+	
+	https://imgur.com/#access_token=6822c7762e274568794db70c9aa3bce24246a3df&expires_in=315360000&token_type=bearer&refresh_token=3aef708c7329a135dedf14f913614ea6f28b6d65&account_username=proxysudo&account_id=97767461
+	
+	//access token = 6822c7762e274568794db70c9aa3bce24246a3df
+	//refresh_token = aef708c7329a135dedf14f913614ea6f28b6d65
+	
